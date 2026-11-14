@@ -1,6 +1,2 @@
 member,git_author_name,git_email,role,modules_files,commit_shas,evidence_note,presenter
-Member 1,,,Lead / Integrator,src/main.py; configs/,,,
-Member 2,,,Data & fixtures,fixtures/; tools/,,,
-Member 3,,,Core algorithm,src/pipeline.py,,,
-Member 4,,,QA / metric,tests/; reports/metrics_*.json,,,
-Member 5,,,Human review + report,reports/group_report.md; demo/,,,
+Bùi Lê Đình Văn,DinhVann1703,builedinhvan@gmail.com,"Solo: integration, data/config, core algorithm, QA/metric, review/report","configs/lab.yaml; src/pipeline.py; src/pipeline_laplacian.py; reports/; out/poc/","b0ce8bf base; final PoC commit pending","AI assistance used for code guidance and visual-review draft; student verification pending","pending"
