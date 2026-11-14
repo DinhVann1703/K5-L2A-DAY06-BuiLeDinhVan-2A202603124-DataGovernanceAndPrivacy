@@ -1,0 +1,4 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T13:54:11+00:00,t02,HOLD,HOLD,POLICY_NOT_IMPLEMENTED,Decision policy not implemented yet,Bùi Lê Đình Văn - reviewer,
+2026-11-14T14:18:28+00:00,t02,HOLD,HOLD,POLICY_NOT_IMPLEMENTED,Decision policy not implemented yet,Bùi Lê Đình Văn - reviewer,
+2026-11-14T14:25:04+00:00,t02,HOLD,HOLD,OFFICIAL_EVAL_PENDING,Ground-truth labels are not distributed in the student repository; awaiting official instructor evaluation before release.,Bùi Lê Đình Văn - reviewer,out\poc\ranked_review.csv;out\poc\review_queue_reviewed.csv

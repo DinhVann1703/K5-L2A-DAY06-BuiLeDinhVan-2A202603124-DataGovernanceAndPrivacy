@@ -1,0 +1,21 @@
+rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
+1,img_22_2,0.835648,high_saturation,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Có dấu hiệu vỡ hạt/khối; điểm high_saturation chưa mô tả đúng lỗi quan sát được.,2026-11-14T14:05:50+00:00
+2,img_06_3,0.75,high_saturation,,,,Bùi Lê Đình Văn ,edit,RECAPTURE,Quầng lóa mạnh giữa ảnh làm mất chi tiết mặt đường và xe.,2026-11-14T14:05:50+00:00
+3,img_18_2,0.734524,high_saturation,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Vùng sáng cháy ở đầu xe; nghi lóa cục bộ làm mất chi tiết.,2026-11-14T14:05:50+00:00
+4,img_17_3,0.722222,underexposed,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Thiếu sáng nặng; phần lớn chi tiết cảnh chìm vào nền đen.,2026-11-14T14:05:50+00:00
+5,img_23_3,0.722222,underexposed,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Thiếu sáng nặng; xe và người khó quan sát.,2026-11-14T14:05:50+00:00
+6,img_03_2,0.716667,high_saturation,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Vùng lóa lớn giữa đường che mất một phần cảnh.,2026-11-14T14:05:50+00:00
+7,img_02_3,0.703704,underexposed,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Cảnh quá tối; xe và chi tiết cần kiểm tra khó nhìn.,2026-11-14T14:05:50+00:00
+8,img_04_2,0.699074,high_saturation,,,,Bùi Lê Đình Văn,reject,KEEP,Biển báo đỏ sáng nhưng xe và mặt đường vẫn rõ; chưa thấy lóa làm mất chi tiết hữu ích.,2026-11-14T14:05:50+00:00
+9,img_07_2,0.694444,underexposed,,,,Bùi Lê Đình Văn,reject,KEEP,"Cảnh đêm tối nhưng xe/người vẫn phân biệt được; giữ làm hard negative, không loại chỉ vì là ảnh đêm.",2026-11-14T14:05:50+00:00
+10,img_13_3,0.690476,low_sharpness,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Mờ rõ; xe và vật thể bị nhòe.,2026-11-14T14:05:50+00:00
+11,img_08_3,0.68287,underexposed,,,,Bùi Lê Đình Văn,reject,KEEP,Ảnh tối nhưng xe và biển số phía trước vẫn nhận ra; giữ làm hard negative ban đêm.,2026-11-14T14:05:50+00:00
+12,img_01_2,0.675926,underexposed,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Gần như đen; chỉ còn vài điểm sáng và bóng vật thể.,2026-11-14T14:05:50+00:00
+13,img_10_3,0.675926,underexposed,,,,Bùi Lê Đình Văn,reject,KEEP,Cảnh đêm tối nhưng xe phía trước và vùng biển số còn thấy được; giữ làm hard negative.,2026-11-14T14:05:50+00:00
+14,img_20_2,0.675926,underexposed,,,,Bùi Lê Đình Văn,reject,KEEP,Cảnh đêm nhưng xe/người còn phân biệt được; giữ để tránh loại ảnh chỉ vì điều kiện tối.,2026-11-14T14:05:50+00:00
+15,img_01_3,0.67328,underexposed,,,,Bùi Lê Đình Văn,reject,KEEP,"Ảnh đêm; xe và biển số vẫn nhìn thấy, không loại chỉ vì nền tối.",2026-11-14T14:05:50+00:00
+16,img_22_3,0.666667,high_saturation,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Vùng cháy sáng lớn ở giữa ảnh làm giảm chi tiết cảnh.,2026-11-14T14:05:50+00:00
+17,img_13_2,0.666005,underexposed,,,,Bùi Lê Đình Văn,reject,KEEP,Cảnh đêm tối nhưng xe và vùng biển số vẫn thấy; giữ làm hard negative.,2026-11-14T14:05:50+00:00
+18,img_22_0,0.664352,high_saturation,,,,Bùi Lê Đình Văn,reject,KEEP,Ảnh rõ; biển báo đỏ bão hòa đơn lẻ không làm mất chi tiết hữu ích.,2026-11-14T14:05:50+00:00
+19,img_18_3,0.663095,low_sharpness,,,,Bùi Lê Đình Văn,edit,RECAPTURE,"Mờ rõ; xe và người bị nhòe, không phải chỉ tối do cảnh đêm.",2026-11-14T14:05:50+00:00
+20,img_15_3,0.6625,underexposed,,,,Bùi Lê Đình Văn,edit,RECAPTURE,Thiếu sáng rất nặng; cảnh gần như đen.,2026-11-14T14:05:50+00:00
